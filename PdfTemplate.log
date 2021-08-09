@@ -1,0 +1,205 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.12)  6 AUG 2021 15:14
+entering extended mode
+**./PdfTemplate.tex
+(PdfTemplate.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box50
+\extrarowheight=\dimen140
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+)
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box52
+)
+No file PdfTemplate.aux.
+\openout1 = `PdfTemplate.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+(D:\Lessons\ICT\LaTex Distributor\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen143
+\scratchbox=\box53
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen144
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks19
+) (D:\Lessons\ICT\LaTex Distributor\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\Lessons\ICT\LaTex Distributor\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+
+LaTeX Warning: No \author given.
+
+<./images//Image1.png, id=1, 5203.44pt x 3902.58pt>
+File: ./images//Image1.png Graphic file (type png)
+<use ./images//Image1.png>
+Package pdftex.def Info: ./images//Image1.png  used on input line 14.
+(pdftex.def)             Requested size: 160.64929pt x 120.46661pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images//Image2.png, id=2, 2976.11874pt x 2232.34pt>
+File: ./images//Image2.png Graphic file (type png)
+<use ./images//Image2.png>
+Package pdftex.def Info: ./images//Image2.png  used on input line 43.
+(pdftex.def)             Requested size: 160.64929pt x 120.47984pt.
+ [1{C:/Users/samue/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+ <./images//Image1.png> <./images//Image2.png>]
+<./images//Image3.png, id=10, 6369.7975pt x 4246.86626pt>
+File: ./images//Image3.png Graphic file (type png)
+<use ./images//Image3.png>
+Package pdftex.def Info: ./images//Image3.png  used on input line 73.
+(pdftex.def)             Requested size: 160.64929pt x 107.0527pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images//Image4.png, id=11, 3955.77875pt x 4944.4725pt>
+File: ./images//Image4.png Graphic file (type png)
+<use ./images//Image4.png>
+Package pdftex.def Info: ./images//Image4.png  used on input line 105.
+(pdftex.def)             Requested size: 160.64929pt x 200.76308pt.
+ [2 <./images//Image3.png> <./images//Image4.png>]
+<./images//Image5.png, id=15, 2998.20125pt x 4496.8pt>
+File: ./images//Image5.png Graphic file (type png)
+<use ./images//Image5.png>
+Package pdftex.def Info: ./images//Image5.png  used on input line 135.
+(pdftex.def)             Requested size: 160.64929pt x 240.90921pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images//Image6.png, id=16, 3830.31pt x 2553.54pt>
+File: ./images//Image6.png Graphic file (type png)
+<use ./images//Image6.png>
+Package pdftex.def Info: ./images//Image6.png  used on input line 165.
+(pdftex.def)             Requested size: 160.64929pt x 107.0726pt.
+ [3 <./images//Image5.png> <./images//Image6.png>]
+<./images//Image7.png, id=20, 3212.0pt x 4015.0pt>
+File: ./images//Image7.png Graphic file (type png)
+<use ./images//Image7.png>
+Package pdftex.def Info: ./images//Image7.png  used on input line 195.
+(pdftex.def)             Requested size: 160.64929pt x 200.76176pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images//Image8.png, id=21, 3783.13374pt x 4728.66624pt>
+File: ./images//Image8.png Graphic file (type png)
+<use ./images//Image8.png>
+Package pdftex.def Info: ./images//Image8.png  used on input line 225.
+(pdftex.def)             Requested size: 160.64929pt x 200.73116pt.
+ [4 <./images//Image7.png> <./images//Image8.png>]
+<./images//Image9.png, id=25, 4306.0875pt x 6459.13126pt>
+File: ./images//Image9.png Graphic file (type png)
+<use ./images//Image9.png>
+Package pdftex.def Info: ./images//Image9.png  used on input line 255.
+(pdftex.def)             Requested size: 160.64929pt x 240.87643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images//Image10.png, id=26, 5104.06876pt x 3467.95625pt>
+File: ./images//Image10.png Graphic file (type png)
+<use ./images//Image10.png>
+Package pdftex.def Info: ./images//Image10.png  used on input line 285.
+(pdftex.def)             Requested size: 160.64929pt x 109.1142pt.
+ [5 <./images//Image9.png> <./images//Image10.png>] (PdfTemplate.aux) ) 
+Here is how much of TeX's memory you used:
+ 1377 strings out of 478864
+ 21643 string characters out of 2854278
+ 320260 words of memory out of 3000000
+ 19336 multiletter control sequences out of 15000+600000
+ 406465 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,8n,66p,218b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
+<D:/Less
+ons/ICT/LaTex Distributor/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Lessons/
+ICT/LaTex Distributor/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Lessons/ICT/
+LaTex Distributor/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on PdfTemplate.pdf (5 pages, 18259959 bytes).
+PDF statistics:
+ 43 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
